@@ -1,0 +1,1 @@
+Program add tickets of SP500 to tickers.txt
